@@ -95,8 +95,7 @@ st.markdown(f"""
   }}
   .hero-title {{
     font-family: 'Cormorant Garamond', serif;
-    font-size: 2.6rem; font-weight: 600; color: #FFFFFF;
-    letter-spacing: 0.01em; margin: 0 0 0.25rem 0; line-height: 1.1;
+    font-size: 2.6rem; font-weight: 600; color: {GOLD};
   }}
   .hero-subtitle {{
     font-family: 'DM Sans', sans-serif;
