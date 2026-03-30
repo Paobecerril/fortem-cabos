@@ -74,7 +74,7 @@ st.markdown(f"""
   }}
 
   .hero-header {{
-    background: linear-gradient(135deg, {NAVY} 0%, {GOLD} 100%);
+    background: linear-gradient(135deg, {NAVY} 0%, {STEEL} 100%);
     padding: 2.5rem 3rem;
     border-radius: 0 0 16px 16px;
     margin: -1rem -1rem 2rem -1rem;
