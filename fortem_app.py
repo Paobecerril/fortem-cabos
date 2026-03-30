@@ -281,10 +281,7 @@ def cargar_modelo_y_datos():
     return pipeline, df, forecast
 
 rf_pipeline, df, forecast_df = cargar_modelo_y_datos()
-```
-
 Luego en `requirements.txt` quita el `.pkl` y deja:
-```
 streamlit
 pandas
 numpy
